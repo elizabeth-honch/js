@@ -1,0 +1,3 @@
+/*data1+"<br/><br/><br/>" + data2+ "<br/><br/><br/> + data3 + <br/>*/
+/*"<strong>"+data1+"</strong><br/><br/><br/><strong>" + data2+"</strong><br/><br/><br/><strong style='border:2px dashed;padding:5px;border-radius:7px;float:left'>"+data3+"</strong>"+"<button onclick='btn()' style='border:2px solid black;border-radius:7px; background: white; margin-left: 85px; margin-top:2px; width:30px;height: 30px;'>...</button>";*/
+/*"<br/>"*/
